@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TheSportsDB</string>
+    <string name="icon">icon</string>
+    <string name="teams">Teams</string>
+    <string name="description">Description</string>
+    <string name="sports">Sports</string>
+    <string name="leagues">Leagues</string>
+    <string name="league_details">League Details</string>
+    <string name="player_details">Player Details</string>
+    <string name="search_players">Search Players</string>
+    <string name="team_details">Team Details</string>
+    <string name="team">Team:</string>
+    <string name="date_of_birth">DoB:</string>
+</resources>
